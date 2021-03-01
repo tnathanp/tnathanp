@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnathanp)](https://github.com/anuraghazra/github-readme-stats)
+![tnathanp's github stats](https://github-readme-stats.vercel.app/api?username=tnathanp&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnathanp&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
